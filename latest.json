@@ -1,7 +1,7 @@
 {
   "version": "v0.3.2",
   "download_url": "https://github.com/smallprg-source/todayssafety/releases/download/v0.3.2/PhotoBoard.exe",
-  "sha256":"840671c02885a09d20305cb87a5823ac3061417ff034e100861ea0394ae5df42",
+  "sha256":"30be0372e905fa3338b7ee34599e54988e205cc831ddbc876a769a1ce347e696",
   "required": false,
   "notes": "오늘의 안전(TBM) 업데이트 실시"
 }

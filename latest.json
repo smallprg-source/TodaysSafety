@@ -1,7 +1,7 @@
 {
   "version": "v0.3.2",
   "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.3.2/TodaysSafety.exe",
-  "sha256":"7e4fbc46653b4d1a4130fe6b15e6d6b5beec68f4b0e53d12621f5a57f7dba21d",
+  "sha256":"6d04fe920c217ecdf4d4b228548468b680aca6630182d87364adeea277d4b5d2",
   "required": false,
   "notes": "오늘의 안전(TBM) 업데이트 실시"
 }

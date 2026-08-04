@@ -1,7 +1,7 @@
 {
   "version": "v0.4.4",
-  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.3.3/TodaysSafety.exe",
-  "sha256":"5ae351c274cefa780c45a8312a99fdf5ac47bd08d40d8a9445d381b31070b6c9",
+  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.4.4/TodaysSafety.exe",
+  "sha256":"d589460a321141f8e94724149d64288352d9c95edea03e0e8c6351c37a5993e7",
   "required": false,
   "notes": "오늘의 안전(TBM) 업데이트 실시"
             "환경설정의 외부 접속 주소에 서버 포트가 자동 표시됩니다."

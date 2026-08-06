@@ -1,7 +1,7 @@
 {
-  "version": "v0.4.5",
-  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.4.5/TodaysSafety.exe",
-  "sha256":"d63014a3f20e41c2748ad144bff95ca76b57fe6a0762e3b35963d8c50b1e0b01",
+  "version": "v0.4.6",
+  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.4.6/TodaysSafety.exe",
+  "sha256":"016fac67d819c1773432155a1afa17dc6cf4cbb1f9eec0ca6c0718fe9da27e5b",
   "required": false,
   "notes": "오늘의 안전(TBM) 업데이트 실시"
             "환경설정의 외부 접속 주소에 서버 포트가 자동 표시됩니다."
@@ -13,4 +13,5 @@
             "도움말 파일을 배포 대상에 포함하고, 누락되더라도 500 오류가 발생하지 않게 처리했습니다."
             "관리자는 기존처럼 모든 TBM에 접근할 수 있습니다."
             "중복안전 메시지는 한번만 표시할지 옵션표시"
+            "날씨 업데이트 수정"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "v0.4.6",
-  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.4.6/TodaysSafety.exe",
-  "sha256":"016fac67d819c1773432155a1afa17dc6cf4cbb1f9eec0ca6c0718fe9da27e5b",
+  "version": "v0.5.6",
+  "download_url": "https://github.com/smallprg-source/TodaysSafety/releases/download/v0.5.6/TodaysSafety.exe",
+  "sha256":"5504b076d0b4e53debabe157d2fbb0342f56fbec1c2be6f8270c46afbe0136f5",
   "required": false,
   "notes": "오늘의 안전(TBM) 업데이트 실시"
             "환경설정의 외부 접속 주소에 서버 포트가 자동 표시됩니다."
@@ -14,4 +14,6 @@
             "관리자는 기존처럼 모든 TBM에 접근할 수 있습니다."
             "중복안전 메시지는 한번만 표시할지 옵션표시"
             "날씨 업데이트 수정"
+            "작업 장소를 작업과 연결하여 다중 선택이 가능하게 수정"
+            "최소 비밀번호 길이 추가"
 }
